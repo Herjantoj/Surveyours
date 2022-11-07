@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #f5c490;
+}
+
+.form_image {
+    width: 90%;
+    margin-right: 50%;
+    margin-top: 50%;
+}
+
+.surveyour_image {
+    margin-top: 40% ;
+}
+
+.notif_image {
+    width: 70%;
+    margin-left: 30%;
+}
